@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\bin\Debug\net8.0\SisPersonal.exe
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\bin\Debug\net8.0\SisPersonal.deps.json
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\bin\Debug\net8.0\SisPersonal.runtimeconfig.json
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\bin\Debug\net8.0\SisPersonal.dll
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\bin\Debug\net8.0\SisPersonal.pdb
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\obj\Debug\net8.0\SisPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\obj\Debug\net8.0\SisPersonal.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\obj\Debug\net8.0\SisPersonal.AssemblyInfo.cs
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\obj\Debug\net8.0\SisPersonal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\obj\Debug\net8.0\SisPersonal.dll
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\obj\Debug\net8.0\refint\SisPersonal.dll
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\obj\Debug\net8.0\SisPersonal.pdb
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\obj\Debug\net8.0\SisPersonal.genruntimeconfig.cache
+C:\Users\Usuario\Documents\TallerDeLenguajes1Practica\tp7\tl1-tp7-2025-EduardoM9517\SisPersonal\obj\Debug\net8.0\ref\SisPersonal.dll
